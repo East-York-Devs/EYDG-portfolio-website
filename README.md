@@ -1,1 +1,1 @@
-# EYDG-portfolio-website
+Create the React version of company website
